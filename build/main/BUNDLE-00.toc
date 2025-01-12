@@ -1,0 +1,3 @@
+([('main',
+   '/Users/lawsonhiggins/Desktop/Work/Software_Dev/Menubar App/dist/main',
+   'EXECUTABLE')],)
